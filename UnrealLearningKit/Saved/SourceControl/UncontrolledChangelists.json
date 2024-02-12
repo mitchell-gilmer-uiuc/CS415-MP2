@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Blueprints/BP_Player.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Blueprints/toplevel.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Empee_too.umap",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Widget/W_HUD.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Blueprints/BP_StaticEnemy.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Blueprints/BP_Coin.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/Noise01.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/Noise02.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/Noise04.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/Noise06.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/Noise07.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/Noise08.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/Noise09.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/Noise11.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/Noise12.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/T_Beam_01.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Fx/NiagaraEmitters/NE_CoinBurst.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Fx/NiagaraSystems/NS_CoinBurst.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Fx/NiagaraSystems/NS_CoinBurst2.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Fx/NiagaraSystems/NS_Coin_Shower.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Mesh/SM_Coin_1.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/sA_PickupSet_1/Models/SM_Coin_1.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Blueprints/BP_Persuer.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Blueprints/Persuer_AIController.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/AI/EAIState.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Blueprints/BPI_LearningKit_PlayerInteractions.uasset",
+				"C:/Users/elek/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MP2/Mesh/SM_Pickup_Health.uasset"
+			]
+		}
+	]
+}
