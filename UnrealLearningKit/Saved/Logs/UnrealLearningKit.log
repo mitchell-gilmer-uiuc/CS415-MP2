@@ -2536,3 +2536,145 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.02.13-21.16.59:478][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2024.02.13-21.16.59:506][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
 [2024.02.13-21.16.59:692][616]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.02.13-21.23.31:886][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.02.13-21.23.35:803][810]LogSlate: Window 'Save Content' being destroyed
+[2024.02.13-21.23.35:837][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-21.23.36:081][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LearningKit_Games/Assets/VFX/Ne_Aura" FILE="../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Content/LearningKit_Games/Assets/VFX/Ne_Aura.uasset" SILENT=true
+[2024.02.13-21.23.36:119][810]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/VFX/Ne_Aura
+[2024.02.13-21.23.36:119][810]LogSavePackage: Moving '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Saved/Ne_AuraE6CD7C96436304D947441985E2AA46D7.tmp' to '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Content/LearningKit_Games/Assets/VFX/Ne_Aura.uasset'
+[2024.02.13-21.23.36:200][810]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/VFX/NE_CoinBurst
+[2024.02.13-21.23.36:201][810]LogSavePackage: Moving '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Saved/NE_CoinBurst647AA3A6457A41D52083A09F69EEE6D2.tmp' to '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Content/LearningKit_Games/Assets/VFX/NE_CoinBurst.uasset'
+[2024.02.13-21.23.36:266][810]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/VFX/NE_SimpleBurst
+[2024.02.13-21.23.36:266][810]LogSavePackage: Moving '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Saved/NE_SimpleBurstAF4F2F604F33E729DBF7A68902A7870F.tmp' to '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Content/LearningKit_Games/Assets/VFX/NE_SimpleBurst.uasset'
+[2024.02.13-21.23.36:272][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Fx/NiagaraSystems/NS_Coin_Shower" FILE="../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Content/MP2/Fx/NiagaraSystems/NS_Coin_Shower.uasset" SILENT=true
+[2024.02.13-21.23.36:421][810]LogSavePackage: Moving output files for package: /Game/MP2/Fx/NiagaraSystems/NS_Coin_Shower
+[2024.02.13-21.23.36:423][810]LogSavePackage: Moving '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Saved/NS_Coin_ShowerC7EE10A4478D6FA6861A74956A72DA27.tmp' to '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Content/MP2/Fx/NiagaraSystems/NS_Coin_Shower.uasset'
+[2024.02.13-21.23.36:427][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Fx/NiagaraSystems/NS_CoinBurst" FILE="../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Content/MP2/Fx/NiagaraSystems/NS_CoinBurst.uasset" SILENT=true
+[2024.02.13-21.23.36:568][810]LogSavePackage: Moving output files for package: /Game/MP2/Fx/NiagaraSystems/NS_CoinBurst
+[2024.02.13-21.23.36:569][810]LogSavePackage: Moving '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Saved/NS_CoinBurst343DDF6B4004130DC9516F9AC277F965.tmp' to '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Content/MP2/Fx/NiagaraSystems/NS_CoinBurst.uasset'
+[2024.02.13-21.23.36:574][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Fx/NiagaraSystems/NS_CoinBurst2" FILE="../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Content/MP2/Fx/NiagaraSystems/NS_CoinBurst2.uasset" SILENT=true
+[2024.02.13-21.23.36:712][810]LogSavePackage: Moving output files for package: /Game/MP2/Fx/NiagaraSystems/NS_CoinBurst2
+[2024.02.13-21.23.36:714][810]LogSavePackage: Moving '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Saved/NS_CoinBurst2B64792544A25CE7BDCBC11839F9CE0A9.tmp' to '../../../../../../Users/elek/CS415-MP2/UnrealLearningKit/Content/MP2/Fx/NiagaraSystems/NS_CoinBurst2.uasset'
+[2024.02.13-21.23.37:078][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.24 sec (total: 38.7 sec)
+[2024.02.13-21.23.37:078][810]LogStall: Shutdown...
+[2024.02.13-21.23.37:090][810]LogStall: Shutdown complete.
+[2024.02.13-21.23.37:176][810]LogSlate: Window 'UnrealLearningKit - Unreal Editor' being destroyed
+[2024.02.13-21.23.37:547][810]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-21.23.37:547][810]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/LearningKit_Games/Assets/VFX/Ne_Aura.Ne_Aura
+[2024.02.13-21.23.37:548][810]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/LearningKit_Games/Assets/VFX/NE_CoinBurst.NE_CoinBurst
+[2024.02.13-21.23.37:548][810]LogContentValidation: Display: Validating /Script/Niagara.NiagaraEmitter /Game/LearningKit_Games/Assets/VFX/NE_SimpleBurst.NE_SimpleBurst
+[2024.02.13-21.23.37:548][810]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/MP2/Fx/NiagaraSystems/NS_Coin_Shower.NS_Coin_Shower
+[2024.02.13-21.23.37:548][810]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/MP2/Fx/NiagaraSystems/NS_CoinBurst.NS_CoinBurst
+[2024.02.13-21.23.37:548][810]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/MP2/Fx/NiagaraSystems/NS_CoinBurst2.NS_CoinBurst2
+[2024.02.13-21.23.37:555][811]Cmd: QUIT_EDITOR
+[2024.02.13-21.23.37:556][811]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.02.13-21.23.37:584][811]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.02.13-21.23.37:585][811]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.02.13-21.23.37:586][811]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.02.13-21.23.37:592][811]LogWorld: UWorld::CleanupWorld for Empee_too, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.23.37:592][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.23.37:636][811]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.02.13-21.23.38:849][811]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.02.13-21.23.38:849][811]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.02.13-21.23.38:849][811]LogAudio: Display: Audio Device unregistered from world 'Empee_too'.
+[2024.02.13-21.23.38:849][811]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.02.13-21.23.38:849][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.02.13-21.23.38:854][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.02.13-21.23.38:868][811]LogAudio: Display: Audio Device Manager Shutdown
+[2024.02.13-21.23.38:868][811]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.02.13-21.23.38:882][811]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.02.13-21.23.38:884][811]LogExit: Preparing to exit.
+[2024.02.13-21.23.38:947][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.02.13-21.23.38:957][811]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:957][811]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:961][811]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:962][811]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:962][811]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:962][811]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:962][811]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:962][811]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:962][811]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:962][811]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:962][811]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:962][811]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:964][811]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:964][811]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:964][811]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:964][811]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:964][811]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:964][811]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:964][811]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.38:964][811]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.13-21.23.40:543][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:543][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:543][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:543][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:543][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:543][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:543][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:543][811]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:544][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.13-21.23.40:545][811]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.23.40:836][811]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
